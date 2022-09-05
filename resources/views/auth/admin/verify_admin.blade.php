@@ -1,0 +1,1 @@
+<h3>Your code: {{ $details }}</h3>
